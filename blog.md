@@ -12,7 +12,8 @@ date: 2017-01-01
     {% if post.tags.size > 0 %}
     <div class="post-tags">
         {% for tag in post.tags %}
-            <a href="{{ '/tag/' | append: tag | slugify | relative_url }}" class="tag">{{ tag }}</a>
+            {% assign tag_slug = tag | slugify %}
+            <a href="{{ '/tags/' | append: tag_slug | relative_url }}" class="tag">{{ tag }}</a>
         {% endfor %}
     </div>
     {% endif %}
