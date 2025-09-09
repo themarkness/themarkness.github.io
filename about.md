@@ -3,7 +3,7 @@ title: About me
 metaDescription: Mark Alexander Williams - Generalist with experience in technology, education and product management
 date: 2022-09-02
 ---
-<img class= "round" src="../assets/img/669a2f330e431a3b2a024ea2966916e8.png"></img>
+<img class= "round" src="../assets/img/669a2f330e431a3b2a024ea2966916e8.png">
 
 I'd describe myself as a generalist, with experience in technology, education and product. A jack of all trades and a master of some. 
 
