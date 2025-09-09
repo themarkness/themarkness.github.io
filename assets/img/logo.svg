@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 376 376" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.36143,0,0,1.51326,-86.3785,-145.246)">
+        <ellipse cx="201.538" cy="220.217" rx="138.091" ry="124.235" style="fill:url(#_Linear1);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-18.2779,61.5155)">
+        <text x="75.488px" y="172.207px" style="font-family:'GujaratiSangamMN-Bold', 'Gujarati Sangam MN';font-weight:700;font-size:96px;fill:white;">M<tspan x="160.41px " y="172.207px ">A</tspan></text>
+        <text x="223.608px" y="172.207px" style="font-family:'GujaratiSangamMN-Bold', 'Gujarati Sangam MN';font-weight:700;font-size:96px;fill:white;">W</text>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(276.181,0,0,248.47,63.4471,220.217)"><stop offset="0" style="stop-color:rgb(128,208,199);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(19,84,122);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
