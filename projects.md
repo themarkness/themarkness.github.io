@@ -1,5 +1,5 @@
 ---
-layout: layouts/page.njk
+layout: default
 title: Projects
 section: about
 date: 2025-05-16
