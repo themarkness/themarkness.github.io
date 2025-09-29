@@ -4,7 +4,7 @@ layout: default
 
 <article>
     <header>
-        <p class="post-date">{{ page.date | date: "%B %d, %Y" }}</p>
+        <p class="post-date">{{ page.date | date: "%B %d, %Y" }} by class="author">{{ page.author }}</p>
         
         {% if page.tags.size > 0 %}
         <div class="post-tags">
