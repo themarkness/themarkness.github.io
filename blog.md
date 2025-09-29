@@ -9,7 +9,12 @@ date: 2017-01-01
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
     
-    {% if post.tags.size > 0 %}
+    <div class="post-excerpt">
+        {{ post.excerpt }}
+    </div>
+    
+    <a href="{{ post.url }}" class="read-more">Read more →</a>
+        {% if post.tags.size > 0 %}
     <div class="post-tags">
         {% for tag in post.tags %}
             {% assign tag_slug = tag | slugify %}
@@ -17,12 +22,6 @@ date: 2017-01-01
         {% endfor %}
     </div>
     {% endif %}
-    
-    <div class="post-excerpt">
-        {{ post.excerpt }}
-    </div>
-    
-    <a href="{{ post.url }}" class="read-more">Read more →</a>
 </article>
 
 <hr>
