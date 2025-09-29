@@ -13,7 +13,6 @@ date: 2017-01-01
         {{ post.excerpt }}
     </div>
     
-    <a href="{{ post.url }}" class="read-more">Read more →</a>
         {% if post.tags.size > 0 %}
     <div class="post-tags">
         {% for tag in post.tags %}
