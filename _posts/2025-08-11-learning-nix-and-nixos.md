@@ -7,8 +7,6 @@ tags:
   - nlnet
 ---
 
-## Introduction
-
 As I had historic practical knowledge of Linux gained through systems admin roles, I already understood the approaches used for package management in Linux and Mac environments. I used AI assistance to explore how nix compares in a learn by doing approach. This introduction assumes you have some similar knowledge and want to do the same.
 
 Whereas a typical package manager like [Homebrew](https://brew.sh/) on Mac installs software system-wide using imperative commands (`brew install foo`), Nix takes a declarative, functional approach; you describe the desired state of your environment in a config file, and Nix builds that exact environment in isolation. This means you can reproduce setups exactly, roll back changes, and avoid many of the versioning and dependency pitfalls common in traditional package management systems.
