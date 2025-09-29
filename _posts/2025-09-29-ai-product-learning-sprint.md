@@ -3,10 +3,8 @@ layout: post
 title: "Product learning sprint. Day 1"
 date: 2025-09-29
 tags: product learning sprint
-excerpt: "A 3 weeek AI product learning sprint"
+excerpt: "A 3 week AI product learning sprint"
 ---
-
-# A 3 week AI product learning sprint
 
 I'm starting a new role in a few weeks and in the interim I wanted  to structure some learning around product and AI alongside making  some time for gardening and learning the piano. I asked Claude to  generate a plan that I can follow and this is what it provided. I expect to loosely follow the approach and document it here on the blog.
 
