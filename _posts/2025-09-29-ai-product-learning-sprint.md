@@ -3,7 +3,7 @@ layout: post
 title: "Product learning sprint. Day 1"
 date: 2025-09-29
 author: "Mark Williams"
-tags: "product learning sprint"
+tags: product-learning-sprint
 excerpt: "A 3 week AI product learning sprint"
 ---
 
