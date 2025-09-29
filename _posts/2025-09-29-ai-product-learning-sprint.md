@@ -10,7 +10,8 @@ excerpt: "A 3 week AI product learning sprint"
 I'm starting a new role in a few weeks and in the interim I wanted  to structure some learning around product and AI alongside making  some time for gardening and learning the piano. I asked Claude to  generate a plan that I can follow and this is what it provided. I expect to loosely follow the approach and document it here on the blog.
 
 
-### Week 1: AI Foundations & PM Fundamentals
+### Week 1: AI Foundations & PM Fundamentals
+
 Learning Focus: Understanding the AI product landscape and current best practices
 Hands-on Projects:
 
@@ -30,6 +31,7 @@ Resources to explore:
 
 
 ### Week 2: AI Product Development & Metrics
+
 Learning Focus: Building, measuring, and iterating AI products
 Hands-on Projects:
 
@@ -52,6 +54,7 @@ Key concepts to study:
 
 
 ### Week 3: Advanced Topics & Portfolio Preparation
+
 Learning Focus: Emerging trends and synthesizing your learning
 Hands-on Projects:
 
