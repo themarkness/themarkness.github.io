@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="tag-page">
-    <h1>Posts tagged "{{ page.title }}"</h1>    
+    <h2>Posts tagged "{{ page.title }}"</h2>    
     {% assign tag_posts = site.tags[page.tag] %}
     {% for post in tag_posts %}
     <article class="post-preview">
