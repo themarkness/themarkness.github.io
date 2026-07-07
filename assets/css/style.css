@@ -97,6 +97,11 @@ a.tag:last-child {
     margin-right: 0;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 footer {
     margin-top: 60px;
     padding-top: 20px;
