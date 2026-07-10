@@ -20,3 +20,13 @@ I've contributed to a range of open infrastructure and education-focused project
 - [**micro:bit**](https://microbit.org/) – Enabling digital skills education through hardware and software tools for teachers, students, and developers worldwide. Check out my [git history as microbit-mark](https://github.com/microbit-mark?tab=overview&from=2020-12-01&to=2020-12-31) between 2017-2020. I'm still working with micro:bits today, combing my passions of technology and adult education.
 
 I've also made contributions to Wordpress and a range of other open source tech.
+
+### GitHub things
+
+A bunch of things I've vibe coded/prototyped/updated recently
+
+- [themarkness.github.io](https://github.com/themarkness/themarkness.github.io) — My personal site (Jekyll); content and styling updates.
+- [JSON-Mural](https://github.com/themarkness/JSON-Mural) — A JSON to Mural sticky-poster tool for product teams (Python).
+- [story-pointer](https://github.com/themarkness/story-pointer) — A way for agile product teams to do collaborative story pointing
+- [preprint-review-metadata](https://github.com/themarkness/preprint-review-metadata) — Fork/experiments around preprint review metadata.
+- [bluesky-feed-app](https://github.com/themarkness/bluesky-feed-app) — Posting Sciety Labs RSS feeds to Bluesky (Python).
