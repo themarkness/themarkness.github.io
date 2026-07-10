@@ -1,5 +1,5 @@
 ---
-
+title: Some product strategy lenses on team reorganisation
 date: 2026-06-24
 author: Mark Williams
 summary: Using Radical Product thinking and Theory of Change as a way to articulate the mechanism of change and guardails to enable change
@@ -45,7 +45,7 @@ I also wondered if now that we have our vision, a **Theory of Change (ToC)** mig
 
 ### What actually is a Theory of Change?
 
-Theory of Change is something traditionally used in the charity sector. The basic idea is simple: make the causal chain explicit. If we do X, it enables Y, which produces Z.
+[Theory of Change](https://www.theoryofchange.org/what-is-theory-of-change/) is something traditionally used in the charity sector and something I saw introduced at [micro:bit](https://microbit.org/about/mission/#theory-of-change). The basic idea is simple: make the causal chain explicit. If we do X, it enables Y, which produces Z.
 
 The version I outline here shows this journey. It forces you to map out your actions, the internal shifts those actions enable, the user experience that creates, and the wider strategic impact that follows.
 
